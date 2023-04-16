@@ -1,5 +1,5 @@
 import ListCategories from "../components/ListCategories"
-import ListPosts from "../components/ListPost"
+import ListPosts from "../components/ListPosts"
 
 const Home = () => {
   return (

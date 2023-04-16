@@ -1,4 +1,7 @@
 
 
--Rutas con parametros
--use params use navigate
+Mostrando la categoria
+
+Crando subcategorias
+
+Nested Routes
